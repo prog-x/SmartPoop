@@ -117,7 +117,7 @@ Katia n'écoutait déjà plus, réfléchissant au type d'analyse colorimétrique
 
 ### L'application est en ligne !
 
-En mars 2019, Katia défend sa thèse. Une semaine plus tard, l'application SmartPoop est rendue disponible sur l'Apple Store et le Google Play Store[^poop-log]. Dans sa version initiale, SmartPoop permet ainsi aux utilisateurs de créer une base de données de leurs déjections solides, que Marc passe chaque soirée à analyser.
+En mars 2019, Katia défend sa thèse. Une semaine plus tard, l'application SmartPoop est rendue disponible sur l'App Store et le Google Play Store[^poop-log]. Dans sa version initiale, SmartPoop permet ainsi aux utilisateurs de créer une base de données de leurs déjections solides, que Marc passe chaque soirée à analyser.
 
 [^poop-log]: Une brève recherche sur Google Play Store permet de se rendre compte qu'il existe déjà de nombreuses applications pour tracer ses selles, comme [Poop Tracker (4,5 étoiles, 100k+ téléchargements).](https://play.google.com/store/apps/details?id=com.appstronautstudios.pooplog), [PoopLog (4,2 étoiles, 100k+ téléchargements).](https://play.google.com/store/apps/details?id=com.kefsco.pooplog2) et [Poopify (4,6 étoiles, 10k+ téléchargements).](https://play.google.com/store/apps/details?id=com.etcho.poopify).
 
